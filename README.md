@@ -27,6 +27,6 @@ python main.py
 ```
 ## Referências
 
-[Flex Grid](https://www.twilio.com/pt-br/docs/sms/quickstart/python)
-[Flex Grid](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication)
-[Flex Grid](https://github.com/sendgrid/sendgrid-python)
+[Documentação SEND SMS](https://www.twilio.com/pt-br/docs/sms/quickstart/python)
+[Documentação Sendgrid](https://docs.sendgrid.com/api-reference/how-to-use-the-sendgrid-v3-api/authentication)
+[Repositório com modelo de sendgrid](https://github.com/sendgrid/sendgrid-python)
