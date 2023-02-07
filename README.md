@@ -1,6 +1,6 @@
 # SMS-Email-Twilio
 
-Script feito em python que realiza o envio de uma mensagem pré descrita para número e emails que estejam verificados na plataforma Twilio 
+Script feito em python que realiza o envio de uma mensagem pré descrita para número e emails verificados na plataforma Twilio 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
